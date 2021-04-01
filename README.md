@@ -48,7 +48,7 @@
 
 Template e-mail marketing for Vivo.
 
-## :sparkles: Site Preview 
+## :sparkles: Preview Project
 
 🖥️ [E-mail Vivo Travel](https://assispaola.github.io/emailmkt-vivo)
 
