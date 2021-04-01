@@ -34,20 +34,38 @@ b {
     padding-left: 1rem;
 }
 
+.logo img {
+    padding-top: 2rem !important;
+}
+
 .title h1 {
     padding-top: 8rem;
     color: #660099;
     font-weight: 600;
+    font-size: 37px;
 }
 
 .title h3 {
     color: #660099;
+    font-size: 25px;
+}
+
+.travel img {
+    padding-top: 2rem !important;
 }
 
 .two {
     font-size: 15px;
     color: #6d6e71;
     padding-top: 3rem;
+}
+
+.plano-atual {
+    padding-bottom: 1.5rem;
+}
+
+.plano-novo img {
+    padding-right: 3rem;
 }
 
 .box {
